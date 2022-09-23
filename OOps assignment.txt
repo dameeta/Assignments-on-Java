@@ -1,0 +1,11 @@
+1. Write an animal class and its features and create object of animal 
+i.e. Rabbit and explain its features by calling its method.
+2.Display the book details by taking input from user.
+Bookid=
+Title=
+Author=
+price=
+3.create Account class and create balancemt,withdrawamt,depositamt 
+variables. Also show the output when user is depositing some money
+into the account and withdrawing some money from the account class
+ 
